@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wael/CLionProjects/untitled/LoaderManager.h
+GL/glut.h
+-
+
+/home/wael/CLionProjects/untitled/main.cpp
+GL/glut.h
+-
+iostream
+-
+LoaderManager.h
+/home/wael/CLionProjects/untitled/LoaderManager.h
+chrono
+-
+string
+-
+cstring
+-
+iomanip
+-
+thread
+-
+
